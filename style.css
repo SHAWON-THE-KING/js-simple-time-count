@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    background-color: rgba(112, 173, 226, 0.485);
+    margin-top: 300px;
+}
+
+.stop-watch{
+    font-size: 70px;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    align-content: center;
+    color: aliceblue;
+    background-color: black;
+}
