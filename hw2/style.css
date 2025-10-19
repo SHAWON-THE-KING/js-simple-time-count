@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(0, 0, 0, 0.464);
+}
+
+.icon-box {
+    margin-top: 150px;
+    position: relative;
+    text-align: center;
+}
+
+.icon-1 {
+    font-size: 500px;
+}
+
+.icon-2 {
+    position: absolute;
+    top: 0;
+    left: 640px;
+    font-size: 500px;
+    display: none;
+}
+
+.js-style {
+    display: block;
+}
+
+.change-btn {
+    position: absolute;
+    top: 130%;
+    left: 47%;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
