@@ -1,0 +1,39 @@
+body {
+    background-color: #d06a6a3a;
+    margin-top: 300px;
+
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#plus {
+    padding: 30px 50px;
+    background-color: rgba(0, 255, 17, 0.7);
+    border: none;
+    border-radius: 12px;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+#minus {
+    padding: 10px 50px;
+    background-color: rgba(255, 0, 0, 0.70);
+    border: none;
+    border-radius: 12px;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+#number{
+    font-size:50px;
+    width: 150px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 12px;
+    text-align: center;
+    align-content: center;
+}
